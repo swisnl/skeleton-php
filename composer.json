@@ -30,7 +30,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            ":vendor\\:package_name\\Tests": "tests"
+            ":vendor\\:package_name\\Tests\\": "tests"
         }
     },
     "scripts": {
