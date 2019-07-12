@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace League\Skeleton\Tests;
 
 class ExampleTest extends \PHPUnit\Framework\TestCase
