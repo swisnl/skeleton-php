@@ -5,7 +5,7 @@ define('COL_DEFAULT', 2);
 
 $fields = [
     'author_name' =>            ['Your name',             'e.g. Björn Brala',                                ''],
-    'author_github_username' => ['Your Github username',  '<username> in https://github.com/username',       'swisnl'],
+    'author_github_username' => ['Your GitHub username',  '<username> in https://github.com/username',       'swisnl'],
     'author_email' =>           ['Your email address',    'e.g. bbrala@swis.nl',                             ''],
     'author_twitter' =>         ['Your twitter username', '',                                                'swisleiden'],
     'author_website' =>         ['Your website',          '',                                                'https://www.swis.nl'],
