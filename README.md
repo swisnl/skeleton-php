@@ -80,7 +80,7 @@ This package is [Treeware](https://treeware.earth). If you use it in production,
 [ico-version]: https://img.shields.io/packagist/v/:vendor/:package_name.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-treeware]: https://img.shields.io/badge/Treeware-%F0%9F%8C%B3-lightgreen.svg?style=flat-square
-[ico-github-actions]: https://img.shields.io/github/checks-status/:vendor/:package_name/master?label=tests&style=flat-square
+[ico-github-actions]: https://img.shields.io/github/actions/workflow/status/:vendor/:package_name/tests.yml?label=tests&branch=master&style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/:vendor/:package_name.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/:vendor/:package_name.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/:vendor/:package_name.svg?style=flat-square
