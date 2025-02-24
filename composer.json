@@ -20,7 +20,7 @@
         "php": "^8.3"
     },
     "require-dev": {
-        "friendsofphp/php-cs-fixer": "^3.8",
+        "laravel/pint": "^1.21",
         "phpunit/phpunit" : "^9.5"
     },
     "autoload": {
@@ -35,8 +35,8 @@
     },
     "scripts": {
         "test": "phpunit",
-        "check-style": "php-cs-fixer fix --dry-run -v",
-        "fix-style": "php-cs-fixer fix"
+        "check-style": "pint --test",
+        "fix-style": "pint"
     },
     "extra": {
         "branch-alias": {
